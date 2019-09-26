@@ -1,0 +1,7 @@
+C:\Users\dcarpov\Documents\daily-kata-master-3\daily-kata-master\DailyKata\bin\Debug\DailyKata.exe.config
+C:\Users\dcarpov\Documents\daily-kata-master-3\daily-kata-master\DailyKata\bin\Debug\DailyKata.exe
+C:\Users\dcarpov\Documents\daily-kata-master-3\daily-kata-master\DailyKata\bin\Debug\DailyKata.pdb
+C:\Users\dcarpov\Documents\daily-kata-master-3\daily-kata-master\DailyKata\obj\Debug\DailyKata.csprojAssemblyReference.cache
+C:\Users\dcarpov\Documents\daily-kata-master-3\daily-kata-master\DailyKata\obj\Debug\DailyKata.csproj.CoreCompileInputs.cache
+C:\Users\dcarpov\Documents\daily-kata-master-3\daily-kata-master\DailyKata\obj\Debug\DailyKata.exe
+C:\Users\dcarpov\Documents\daily-kata-master-3\daily-kata-master\DailyKata\obj\Debug\DailyKata.pdb
